@@ -5,4 +5,5 @@ This app uses the Alchemy SDK rigged to Alchemy's Enhanced APIs in order to disp
 ## Set Up
 
 1. Install dependencies by running `npm install`
-2. Start application by running `npm run dev`
+2. Get your API key from Alchemy and a project ID for WalletConnect.
+3. Start application by running `npm run dev`
